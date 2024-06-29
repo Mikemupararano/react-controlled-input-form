@@ -13,6 +13,16 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 2rem 0;
+  text-align: center;
+}
+.create label {
+  text-align: left;
+  display: block;
+}
 a {
   font-weight: 500;
   color: #646cff;
